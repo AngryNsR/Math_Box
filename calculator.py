@@ -5,5 +5,9 @@ def add(a, b):
 def substract(a, b):
 	return a - b
 
+<<<<<<< HEAD
 def divide(a, b):
+=======
+def divide(a , b):
+>>>>>>> main
 	return a / b
