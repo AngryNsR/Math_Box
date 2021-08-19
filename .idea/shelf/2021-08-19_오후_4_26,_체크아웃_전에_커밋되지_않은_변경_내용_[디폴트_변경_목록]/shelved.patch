@@ -1,0 +1,21 @@
+Index: calculator.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># 기본 계산기\r\ndef add(a, b):\r\n\treturn a + b\r\n\r\ndef substract(a, b):\r\n\treturn a - b\r\n\r\n<<<<<<< HEAD\r\ndef divide(a, b):\r\n=======\r\ndef divide(a , b):\r\n>>>>>>> main\r\n\treturn a / b
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/calculator.py b/calculator.py
+--- a/calculator.py	(revision 910042fdb0f5b1811f2133fd5e07263fad2feee5)
++++ b/calculator.py	(date 1629358004129)
+@@ -5,9 +5,5 @@
+ def substract(a, b):
+ 	return a - b
+ 
+-<<<<<<< HEAD
+-def divide(a, b):
+-=======
+ def divide(a , b):
+->>>>>>> main
+ 	return a / b
+\ No newline at end of file
