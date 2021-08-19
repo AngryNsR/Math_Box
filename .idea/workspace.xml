@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="48be2f84-fe88-494d-a048-a1f82cc1ab90" name="디폴트 변경 목록" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/License" beforeDir="false" afterPath="$PROJECT_DIR$/License" afterDir="false" />
 =======
+>>>>>>> main
+=======
+    <list default="true" id="2d0f48df-77a6-4483-b32e-48a65c1b0286" name="디폴트 변경 목록" comment="">
 >>>>>>> main
       <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
     </list>
